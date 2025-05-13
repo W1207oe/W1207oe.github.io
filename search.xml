@@ -34,7 +34,7 @@
       <link href="/2025/05/13/RuinGuard/"/>
       <url>/2025/05/13/RuinGuard/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<font face="Consolas">Butterfly 主题使用了一种特殊的 YAML 写法来简化菜单配置：<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">menu:</span></span><br><span class="line">  <span class="attr">home:</span> <span class="string">/</span></span><br><span class="line">  <span class="attr">archives:</span> <span class="string">/archives</span></span><br><span class="line">  <span class="attr">categories:</span> <span class="string">/categories</span></span><br></pre></td></tr></table></figure><p>✅ 字段含义分析<br>这行代码定义了一个导航栏菜单项（在顶部或侧边栏显示）：</p><p>部分含义<br>归档菜单上显示的文字（中文“归档”）<br>&#x2F;archives&#x2F;点击后跳转的路径<br>fas fa-archive使用的 Font Awesome 图标类名</p><font/>]]></content>
       
       
       
